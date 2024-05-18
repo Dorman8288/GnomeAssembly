@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\bin\Debug\net6.0\Puzzel.exe
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\bin\Debug\net6.0\Puzzel.deps.json
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\bin\Debug\net6.0\Puzzel.runtimeconfig.json
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\bin\Debug\net6.0\Puzzel.dll
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\bin\Debug\net6.0\Puzzel.pdb
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.AssemblyInfo.cs
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.dll
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\refint\Puzzel.dll
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.pdb
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\Puzzel.genruntimeconfig.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Puzzel\Puzzel\obj\Debug\net6.0\ref\Puzzel.dll

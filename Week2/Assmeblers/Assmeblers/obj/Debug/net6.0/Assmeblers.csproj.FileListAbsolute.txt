@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\bin\Debug\net6.0\Assmeblers.exe
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\bin\Debug\net6.0\Assmeblers.deps.json
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\bin\Debug\net6.0\Assmeblers.runtimeconfig.json
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\bin\Debug\net6.0\Assmeblers.dll
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\bin\Debug\net6.0\Assmeblers.pdb
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.AssemblyInfo.cs
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.dll
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\refint\Assmeblers.dll
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.pdb
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\Assmeblers.genruntimeconfig.cache
+C:\Users\User\source\repos\Gnome Assembly\Week2\Assmeblers\Assmeblers\obj\Debug\net6.0\ref\Assmeblers.dll

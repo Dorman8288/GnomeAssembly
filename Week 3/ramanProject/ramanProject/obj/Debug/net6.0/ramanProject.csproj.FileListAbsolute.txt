@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\bin\Debug\net6.0\ramanProject.exe
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\bin\Debug\net6.0\ramanProject.deps.json
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\bin\Debug\net6.0\ramanProject.runtimeconfig.json
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\bin\Debug\net6.0\ramanProject.dll
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\bin\Debug\net6.0\ramanProject.pdb
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.AssemblyInfo.cs
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.dll
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\refint\ramanProject.dll
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.pdb
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ramanProject.genruntimeconfig.cache
+C:\Users\User\source\repos\Gnome Assembly\Week 3\ramanProject\ramanProject\obj\Debug\net6.0\ref\ramanProject.dll
